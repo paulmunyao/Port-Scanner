@@ -46,9 +46,9 @@ This challenge is to build your own version of a port scanner like nmap (https:/
 
 In order to run this project you need:
 
-```sh
  Install python in your machine if you don't have
-```
+
+Follow this documentation - ("https://python.org/")
 
 ### Setup
 
