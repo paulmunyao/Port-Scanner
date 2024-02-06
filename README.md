@@ -48,7 +48,7 @@ In order to run this project you need:
 
  Install python in your machine if you don't have
 
-Follow this documentation - ("https://python.org/")
+Follow this documentation - https://python.org/
 
 ### Setup
 
