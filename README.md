@@ -17,9 +17,9 @@
 
 # 📖 PORT SCANNER <a name="about-project"></a>
 
-> This challenge is to build your own version of a port scanner like nmap(https://svn.nmap.org/)
+This challenge is to build your own version of a port scanner like nmap (https://svn.nmap.org/)
 
-**[A DISTRIBUTED SYSTEM]** A port scanner is a computer program that checks network ports and probes a server or host for open ports.
+**PORT SCANNER** - A port scanner is a computer program that checks network ports and probes a server or host for open ports.
 
 ## 🛠 Built With <a name="built-with"></a>
 
