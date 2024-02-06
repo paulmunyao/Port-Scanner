@@ -94,6 +94,6 @@ Feel free to check the [issues page](https://github.com/paulmunyao/Port-Scanner/
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/paulmunyao/Port-Scanner?tab=MIT-1-ov-file) licensed.
 
 <p align="left">(<a href="#readme-top">back to top</a>)</p>
